@@ -1,0 +1,18 @@
+Link para download do Git: https://git-scm.com/downloads
+
+**Passo a passo para clonar um repositório**
+
+1. Copiar o link HTTPS do repositório que deseja clonar
+2. Abrir o Git Bash
+3. git clone + link
+
+
+**Passo a passo para comitar um repositório**
+1. Abrir a pasta desejada e abrir com o Git Bash
+2. git status para identificar se há algo para comitar
+3. Se identificado -> git add . ou git add -a
+4. git status para verificar se fica verde
+5. git commit -m "mensagem"
+6. git push origin main
+
+
